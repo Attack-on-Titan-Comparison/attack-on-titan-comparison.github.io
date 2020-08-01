@@ -1,6 +1,7 @@
 ---
 title: "Template"
 permalink: /template/
+layout: page
 excerpt: "Template post."
 ---
 
