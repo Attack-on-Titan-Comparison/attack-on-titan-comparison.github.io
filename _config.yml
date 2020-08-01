@@ -5,7 +5,6 @@ description: >- # site description
 lang: en-US # default lang
 image: assets/ErenFace.png # This image used for Open Graph more info https://ogp.me/
 mode: dark # default theme "dark" | "light"
-breadcrumbs: true
 
 # Profile settings
 author:
