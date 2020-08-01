@@ -5,5 +5,4 @@ excerpt: "Just a test"
 ---
 
 ![armin](/assets/arminComp.gif) {: .align-center}
-*Armin Comparison*
-{: .text-center}
+*Armin Comparison*{: .text-center}
